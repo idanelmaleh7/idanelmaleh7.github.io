@@ -1,0 +1,117 @@
+body{
+  text-align: center;
+
+}
+
+
+/* Contact CSS*/
+.container#c1 {
+  text-align: center;
+}
+.container p#cp1 {
+  font-size: 150%;
+}
+.container p#cp2 {
+  font-size: 200%;
+}
+
+.fa {
+  padding: 20px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+@media screen and (max-width: 699px) and (min-width: 520px) {
+.fa-facebook {
+  padding: 10px;
+}
+}
+
+/* End of contact CSS*/
+
+/* Main Index Page*/
+
+img#idan-pic {
+    width: 300px;
+}
+
+img:hover#idan-pic{
+
+}
+
+p#hp1 {
+  font-size: 200%;
+}
+
+.panel-group{
+  max-width:500px;
+}
+.panel-group1{
+  text-align: left;
+}
+.panel-heading {
+  font-size: 150%;
+}
+
+.Name{
+  font-size: 400%
+}
+
+.underline{
+  text-decoration: underline;
+}
+.container-fluid {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.bg-1 {
+      background-color: #cfe0e8;
+      color: #555555;
+  }
+  .bg-2 {
+      background-color: #EFEFEF;
+      color: #555555;
+  }
+  .bg-3 {
+      background-color: #cfe0e8;
+      color: #555555;
+  }
+  .bg-4 {
+      background-color: #EFEFEF;
+
+  }
+
+  .hp3{
+    font-size: medium;
+
+  }
+
+  .hskills{
+    columns: 3;
+    list-style-type: none;
+  }
+
+@media screen and (max-width: 699px) {
+.panel-heading {
+  font-size: 100%;
+}
+}
+
+
+
+@media screen and (max-width: 699px) {
+img#idan-pic {
+  width: 100px;
+}
+}
+
+/* End of Main Index Page*/
