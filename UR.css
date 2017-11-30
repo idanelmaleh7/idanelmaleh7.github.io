@@ -1,0 +1,26 @@
+.blackLine{
+  height: 4px;
+  border = none;
+  color: black;
+  background-color: black;
+}
+
+.head{
+  text-align: center;
+}
+
+.c1{
+  width: 60%;
+}
+.c2{
+  width: 40%;
+}
+
+.imgSize{
+  height: 400px;
+    width: 700px;
+}
+
+.h2{
+  text-align: center;
+}
